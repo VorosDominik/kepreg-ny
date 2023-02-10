@@ -5,12 +5,17 @@ body{
 }
 main{
     margin:2%;
+    width: 80%;
+    max-width: 800px;
+    margin: auto;
 }
 header h1{
     font-size: 50px;
     text-align: center;
 }
-
+img{
+    height: 350px;
+}
 h1{
     font-size: 50px;
     text-align: center;
