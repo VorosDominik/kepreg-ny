@@ -1,5 +1,25 @@
 *{box-sizing: border-box;
 }
-main{
+body{
     background-color: lightslategray;
+}
+main{
+    margin:2%;
+}
+header h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+section{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    
 }
